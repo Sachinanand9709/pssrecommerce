@@ -1,4 +1,4 @@
-                         : : : : : LOGIN DETAILS : : : : : 
+                         : : : : : LOGIN DETAILS : : : : 
 
 ADMIN PANEL LOGIN:
 
@@ -10,7 +10,7 @@ Password: password
 
 USER LOGIN:
 
-Username: harry@den.com
+Username: sachinbscc385@.com
 Password: code0
 
 DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
@@ -22,6 +22,6 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
-#THANK YOU FOR DOWNLOADING
+
+#THANK YOU 
